@@ -23,7 +23,7 @@ const byemsgimg = () => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname) => {
-    return `Bienvenido ${numero}\n\nAal menú del bot`
+    return `Bienvenido ${numero}\n\nal menú del bot`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
