@@ -10,14 +10,14 @@ const gimagenotregister = true
 const sgooglenotregister = true
 // quando não há comando registrado o bot procura uma pesquisa no google
 
-const msgwelcomeimg = (numero, groupname) => {
-    return `Se bienvenido ${numero}\n\n ${prefix}`
+const msgwelcomeimg = () => {
+    return ``
 }
 //Welcome activado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const byemsgimg = (numero, groupname) => {
-    return `Adiós ${numero}`
+const byemsgimg = () => {
+    return ``
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
