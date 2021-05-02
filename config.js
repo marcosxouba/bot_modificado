@@ -4,10 +4,10 @@ const ownerNumber = ["+34671350075@s.whatsapp.net"]
 const OriginalOwner = '+34671350075' 
 // mude para seu numero
 
-const gimagenotregister = true
+const gimagenotregister = false
 // quando não há comando registrado o bot procura no google image
 
-const sgooglenotregister = true
+const sgooglenotregister = false
 // quando não há comando registrado o bot procura uma pesquisa no google
 
 const msgwelcomeimg = () => {
